@@ -1,4 +1,4 @@
-# Welcome to my blog
+# Welcome my github pages 
 
-I'm glad you are here. I plan to talk about ...  
-This is a sample line based on ***learning lab***.
+I'm glad you are here.
+This is build by ***jekyll***.
